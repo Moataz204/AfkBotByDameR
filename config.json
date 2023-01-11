@@ -1,8 +1,8 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
-	"name": "afkbot",
-	"auto-night-skip":"false",
+	"ip":"5ara_5ara123.aternos.me",
+	"port":,
+	"name": "A7A",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
 	"login-cmd":"/login 12345"
